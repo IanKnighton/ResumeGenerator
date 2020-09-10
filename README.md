@@ -1,4 +1,4 @@
-# Resume Generator
+# Résumé Generator
 
 A .Net Core project that allows you to generate a simple résumé without needing to pay for a subscription. 
 
@@ -10,4 +10,14 @@ Any information necessary for building and working with the project will be incl
 
 ## Table of Contents
 
-* Introduction
+* [Introduction](https://ianknighton.com/building-a-resume-generator-introduction)
+* [The Setup](https://ianknighton.com/building-a-resume-generator-the-setup)
+* [The Foundation](https://ianknighton.com/building-a-resume-generator-the-foundation)
+
+## Setup
+
+As of the most recent update, there's a whole lot of nothing here. 
+
+You can clone the repository and use `dotnet build` and `dotnet run` to run the project, but as of this update you'll just receive a basic `Hello World` page. 
+
+Keep following a long for better things (*I hope*).
